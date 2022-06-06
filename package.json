@@ -7,9 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marga Lopez",
   "license": "ISC",
   "dependencies": {
     "requests": "^0.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MargaLop/SERVER-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MargaLop/SERVER-API/issues"
+  },
+  "homepage": "https://github.com/MargaLop/SERVER-API#readme"
 }
